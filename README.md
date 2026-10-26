@@ -8,7 +8,7 @@ My current work focuses on **JavaScript, TypeScript, React, and Appwrite**, with
 
 | Project | What I'm building | Technologies |
 | --- | --- | --- |
-| [UniSpora](https://github.com/shah-ahmad/UNISPORA) | Discover universities on an interactive globe. | TypeScript, React, Vite, Mapbox GL, TanStack Router, Appwrite |
+| [UniSpora](https://unispora.com) | Discover universities on an interactive globe. | TypeScript, React, Vite, Mapbox GL, TanStack Router, Appwrite |
 | [GymTracker](https://github.com/shah-ahmad/Gym-Tracker) | Track workouts and fitness progress. | JavaScript, HTML, CSS, Vite |
 | Pubcrawl | Manage pub crawl bookings and QR tickets. | React, Vite, Appwrite |
 | [Extended Deutsch Algorithm](https://github.com/shah-ahmad/Deutsch-Algorithm-extendedd) | A quantum computing lab exploring constant and balanced oracles, statevector simulation, and Bloch sphere visualization. | Python, Qiskit |
